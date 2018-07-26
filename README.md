@@ -1,0 +1,1 @@
+# open-graph-image-ratio
